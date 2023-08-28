@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>771381090783-v97ir293or7bqn43p0p3rckftcmsbta3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.771381090783-v97ir293or7bqn43p0p3rckftcmsbta3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNd9uqDt4ZNEoHmeabw3_x4I9ludy-oKA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771381090783</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>ordering-siam-canteen</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ordering-siam-canteen.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771381090783:ios:6af976df243acbc8184c6a</string>
+	<key>DATABASE_URL</key>
+	<string>https://ordering-siam-canteen-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
